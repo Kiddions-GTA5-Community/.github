@@ -12,8 +12,8 @@
 
 ## 📋 Explore Further  
 
-- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Kiddions-GTA5-Community/Kiddions-Modest-Menu-Hub)  
-- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Kiddions-GTA5-Community/Kiddions-Modest-Menu-Hub)  
+- [![Go to Detailed Instructions](https://img.shields.io/badge/Go_to_Detailed_Instructions-NOW-blueviolet)](https://github.com/Kiddions-GTA5-Community/Kiddions-Modest-Free-Menu-Hub)  
+- [![Start Tutorial](https://img.shields.io/badge/Start_Tutorial-NOW-blueviolet)](https://github.com/Kiddions-GTA5-Community/.github)  
 
 ---
 
